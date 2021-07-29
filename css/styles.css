@@ -1,0 +1,172 @@
+body {
+  margin: none;
+  text-align: center;
+  font-family: "Merriweather Sans", sans-serif;
+  font-size: 100%;
+}
+
+hr {
+  border-top: 10px dotted black;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  width: 10%;
+  margin: 50px auto;
+  background: none;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Montserrat Subrayada", sans-serif;
+  color: black;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.75rem;
+  color: #00008b;
+  padding-bottom: 5px;
+}
+
+p {
+  line-height: 2;
+}
+
+i {
+  display: inline;
+}
+
+.nav-list a {
+  color: #00008b;
+  font-family: "Merriweather Sans", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.nav-list a:hover {
+  color: rgba(255, 255, 0, 0.6);
+}
+
+.program {
+  font-weight: normal;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.intro {
+  width: 70%;
+  margin: auto;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: darkgray;
+}
+
+button {
+  margin-bottom: 20px;
+}
+
+.nav-list ul {
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.2);
+  display: block;
+  text-align: center;
+}
+
+.nav-list li {
+  display: inline;
+  padding: 0 10px 0 10px;
+}
+
+.info-descrption {
+  background: linear-gradient(rgba(0, 0, 255, 0.6), rgba(255, 255, 0, 0.6)),
+    url("../images/CityLine.jpg");
+  background-size: cover;
+  background-position: middle;
+  padding: 200px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.projects ul {
+  margin-top: 30px;
+  text-decoration: none;
+  margin: 0 auto;
+}
+
+.projects li {
+  display: inline;
+  padding: 0 25px 0 25px;
+}
+
+.weather-knowledge-link {
+  margin-bottom: 10px;
+  width: 450px;
+  height: 450px;
+  display: inline-block;
+  background: transparent url("../images/Weather_Knowledge_Web.PNG") center top
+    no-repeat;
+  border-radius: 10px;
+}
+
+.tin-dog-link {
+  margin-bottom: 10px;
+  width: 450px;
+  height: 450px;
+  display: inline-block;
+  background: transparent url("../images/tinDog_Web.PNG") center top no-repeat;
+  border-radius: 10px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: "Merriweather Sans", sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+  padding: 20px;
+  background-color: #3d94f6;
+  text-shadow: 1px 1px 15px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 5rem;
+}
+
+.contact-me-list ul {
+  margin-top: 30px;
+  text-decoration: none;
+  margin: 0 auto;
+}
+
+.contact-me-list li {
+  display: inline;
+  padding: 0 10px 0 10px;
+}
+
+.bottom-container {
+  background: linear-gradient(rgba(0, 0, 255, 0.6), rgba(255, 255, 0, 0.6)),
+    url("../images/CityLine.jpg");
+  background-size: cover;
+  background-position: bottom;
+  padding: 30px;
+  margin: none;
+}
+
+.bottom-container p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
