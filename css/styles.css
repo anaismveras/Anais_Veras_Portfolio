@@ -92,6 +92,10 @@ button {
   margin: 100px 0;
 }
 
+.projects {
+  background-color: darkgray;
+}
+
 .projects ul {
   margin-top: 30px;
   text-decoration: none;
