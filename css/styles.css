@@ -112,21 +112,21 @@ button {
 
 .weather-knowledge-link {
   margin-bottom: 10px;
-  width: 450px;
-  height: 450px;
+  width: 300px;
+  height: 300px;
   display: inline-block;
   background: transparent url("../images/Weather_Knowledge_Web.PNG") center top
     no-repeat;
-  border-radius: 10px;
+  border-radius: 100px;
 }
 
 .tin-dog-link {
   margin-bottom: 10px;
-  width: 450px;
-  height: 450px;
+  width: 300px;
+  height: 300px;
   display: inline-block;
   background: transparent url("../images/tinDog_Web.PNG") center top no-repeat;
-  border-radius: 10px;
+  border-radius: 100px;
 }
 
 .skill-row {
