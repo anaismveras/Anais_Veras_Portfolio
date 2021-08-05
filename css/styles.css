@@ -129,8 +129,7 @@ button {
   width: 800px;
   height: 300px;
   display: inline-block;
-  background: transparent url("../images/tinDog-website.PNG") center top
-    no-repeat;
+  background: transparent url("../images/tinDog-website.PNG") left top no-repeat;
   border-radius: 10px;
 }
 
