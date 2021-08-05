@@ -94,7 +94,8 @@ button {
 
 .projects {
   background-color: darkgray;
-  padding: 2%;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .projects ul {
