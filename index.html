@@ -54,15 +54,27 @@
       </p>
     </div>
     <div class="projects">
-       <h2 id="projects">Projects</h2>
-       <ul>
-         <li>
-            <a class="weather-knowledge-link" href="https://eloquent-bassi-85d2b9.netlify.app/" target="_blank" ></a>
-         </li>
-         <li>
-           <a class="tin-dog-link" href="https://agitated-blackwell-eba7e8.netlify.app/" target="_blank" ></a>
-         </li>
-       </ul>  
+       <div id="projects-carousel" class="carousel slide" data-bs-ride="false">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner" style="background-color: red">
+    <div class="carousel-item active">
+      <a class="weather-knowledge-link" href="https://eloquent-bassi-85d2b9.netlify.app/" target="_blank" >Weather App</a>
+    </div>
+    <div class="carousel-item" style="background-color:yellow">
+      <a class="tin-dog-link" href="https://agitated-blackwell-eba7e8.netlify.app/" target="_blank" >tinDog</a>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#projects-carousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#projects-carousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </button>
+</div>
     </div>
       <br />
     <div class="skills">
