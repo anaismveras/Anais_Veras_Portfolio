@@ -116,7 +116,7 @@ button {
 
 .weather-knowledge-link {
   margin-bottom: 10px;
-  width: 300px;
+  width: 800px;
   height: 300px;
   display: inline-block;
   background: transparent url("../images/Weather_Knowledge_Web.PNG") center top
@@ -126,7 +126,7 @@ button {
 
 .tin-dog-link {
   margin-bottom: 10px;
-  width: 300px;
+  width: 800px;
   height: 300px;
   display: inline-block;
   background: transparent url("../images/tinDog_Web.PNG") center top no-repeat;
