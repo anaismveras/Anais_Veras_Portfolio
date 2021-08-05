@@ -117,7 +117,7 @@ button {
   display: inline-block;
   background: transparent url("../images/Weather_Knowledge_Web.PNG") center top
     no-repeat;
-  border-radius: 100px;
+  border-radius: 10px;
 }
 
 .tin-dog-link {
@@ -126,7 +126,7 @@ button {
   height: 300px;
   display: inline-block;
   background: transparent url("../images/tinDog_Web.PNG") center top no-repeat;
-  border-radius: 100px;
+  border-radius: 10px;
 }
 
 .skill-row {
