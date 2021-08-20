@@ -133,6 +133,15 @@ button {
   border-radius: 10px;
 }
 
+.Architectural-Firm-link {
+  margin-bottom: 10px;
+  width: 800px;
+  height: 300px;
+  display: inline-block;
+  background: transparent url("../images/arch-image.PNG") center no-repeat;
+  border-radius: 10px;
+}
+
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
