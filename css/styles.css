@@ -101,59 +101,11 @@ button {
 .projects {
   background-color: darkgray;
   padding: 10px 20px;
+  margin-top: 30px;
 }
 
 .projects-title {
   color: grey;
-}
-
-.projects ul {
-  margin-top: 30px;
-  text-decoration: none;
-  margin: 0 auto;
-}
-
-.projects li {
-  display: inline;
-  padding: 0 25px 0 25px;
-  margin-top: 30px;
-}
-
-.weather-knowledge-link {
-  margin-bottom: 10px;
-  width: 800px;
-  height: 300px;
-  display: inline-block;
-  background: transparent url("../images/Weather_Knowledge_Web.PNG") center top
-    no-repeat;
-  border-radius: 10px;
-}
-
-.perfectPet-link {
-  margin-bottom: 10px;
-  width: 800px;
-  height: 300px;
-  display: inline-block;
-  background: transparent url("../images/perfectPet.jpeg") left top no-repeat;
-  border-radius: 10px;
-}
-
-.tin-dog-link {
-  margin-bottom: 10px;
-  width: 800px;
-  height: 300px;
-  display: inline-block;
-  background: transparent url("../images/tinDog-website.PNG") left top no-repeat;
-  border-radius: 10px;
-}
-
-.Galleria-link {
-  margin-bottom: 10px;
-  width: 800px;
-  height: 300px;
-  display: inline-block;
-  background: transparent url("../images/53CD2AA7-5AAF-4B8F-B09A-F4738B538EE9.jpeg") center no-repeat;
-  border-radius: 10px;
 }
 
 .skill-row {
