@@ -116,6 +116,7 @@ button {
 .projects li {
   display: inline;
   padding: 0 25px 0 25px;
+  margin-top: 30px;
 }
 
 .weather-knowledge-link {
