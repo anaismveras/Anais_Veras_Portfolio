@@ -37,6 +37,12 @@ i {
   display: inline;
 }
 
+a {
+  margin: 5px;
+  text-decoration: none;
+  color: #00008b;
+}
+
 .nav-list a {
   color: #00008b;
   font-family: "Merriweather Sans", sans-serif;
